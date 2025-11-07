@@ -1,0 +1,5 @@
+{
+  "name": "3D Surf Forecast AI",
+  "description": "A 3D surf weather forecast website featuring a rotatable globe. It uses AI to generate wave height and wind speed predictions for any location you click on.",
+  "requestFramePermissions": []
+}
